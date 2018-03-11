@@ -1,0 +1,26 @@
+.picture{
+  width: 300px;
+}
+ul{
+  list-style: none;
+  padding: 0px;
+}
+.list{
+  font-weight: bold;
+}
+.card{
+  width:300px;
+  padding:10px;
+  box-shadow: 5px 5px rgba(119, 118, 111, 0.3);
+}
+.bottom-card{
+  margin:0px;
+  padding:10px;
+  border: 1px solid #cccccc;
+}
+#bottom-card{
+  margin:0px;
+  padding:10px;
+  border: 1px solid #cccccc;
+  
+}
